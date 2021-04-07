@@ -1,0 +1,4 @@
+C:\Users\gunel\Desktop\C#\CAR\CAR\obj\Debug\netcoreapp3.1\CAR.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\CAR\CAR\obj\Debug\netcoreapp3.1\CAR.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\CAR\CAR\obj\Debug\netcoreapp3.1\CAR.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\CAR\CAR\obj\Debug\netcoreapp3.1\CAR.csproj.CoreCompileInputs.cache
